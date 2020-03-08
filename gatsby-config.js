@@ -1,34 +1,26 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `The Smart Home Life`,
+    name: `Josh & Brayden Owens`,
+    siteUrl: `https://thesmarthome.life`,
+    description: `We talk about all things smart home, mainly focused on Apple HomeKit`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Join us on this smart home journey.`,
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/smarthome_life`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/joshowens`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
-      },
-      {
-        name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
-      },
+        url: `https://instagram.com/thesmarthomelife`,
+      }
     ],
   },
   plugins: [

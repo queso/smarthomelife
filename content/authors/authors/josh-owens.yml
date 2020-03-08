@@ -1,0 +1,9 @@
+name: Josh Owens
+bio: |
+  Josh is a developer by day and a smart home enthusiat by night. Join him as they explore setting up a smart home for the family, mostly using Apple HomeKit.
+avatar: ./avatars/josh-owens.jpeg
+social:
+  - url: https://twitter.com/joshowens
+  - url: https://github.com/queso
+  - url: https://github.com
+featured: true
