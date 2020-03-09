@@ -1,8 +1,8 @@
 ---
 title: Welcome to the Smart Home Life
 author: Josh Owens
-date: 2019-04-30
-hero: ./images/hero.jpg
+date: 2020-03-08
+hero: ./images/photo.jpeg
 excerpt: With the growing interest in smart home technology, my son and I decided to jump in and share our journey in building our smart home with Apple HomeKit.
 ---
 
